@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc276183-6d75-4d40-bb21-9864b0497ab2" name="Default Changelist" comment="" />
+    <list default="true" id="dc276183-6d75-4d40-bb21-9864b0497ab2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scanner/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scanner/scanner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search_api/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search_api/search_api.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VHnpgakrtAyoS5ukSszQiNF1IO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -86,5 +99,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576919245698" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1576921369043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576921369043" />
   </component>
 </project>
