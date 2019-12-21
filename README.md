@@ -16,7 +16,10 @@ https://api.mongodb.com/python/current/atlas.html
 2. Install dnspython
 https://pypi.org/project/dnspython/
 
-3. Run setup.py
+3. Install request
+https://realpython.com/python-requests/
+
+4. Run setup.py
 
 <br>
 

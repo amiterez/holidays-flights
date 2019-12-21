@@ -1,5 +1,6 @@
 from h_flights import common
 from h_flights.database import connection
+from h_flights.scanner.holidays import get_holidays_dates
 
 CONFIGURATIONS_NAMESPACE = "configurations"
 
@@ -28,9 +29,16 @@ class FlightsScanner():
 
         self.is_initialized = True
 
+
     def run(self):
         if not self.is_initialized:
             return
+
+        # fetch all israeli holidays dates, which will be used to search possible flights
+        dates_list = get_holidays_dates()
+
+
+
 
 
 
