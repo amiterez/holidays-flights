@@ -4,6 +4,9 @@ class DBConnection():
     client_instace = None
 
     def get_single_document(self, database_name, collection_name):
+        if not self.client_instace:
+            return
+
         database = self.client_instace.get_database(database_name)
 
         collection = database[collection_name]

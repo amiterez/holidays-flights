@@ -10,11 +10,10 @@ class FlightsScanner():
     is_initialized = False
 
     def __init__(self):
-
         self.init()
 
-
     def init(self):
+
         if self.is_initialized:
             return
 
@@ -36,6 +35,8 @@ class FlightsScanner():
 
         # fetch all israeli holidays dates, which will be used to search possible flights
         dates_list = get_holidays_dates()
+
+        a = [1,2,3]
 
 
 
